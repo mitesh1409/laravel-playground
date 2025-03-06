@@ -7,6 +7,12 @@
     <title>Laravel | Home</title>
 </head>
 <body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+    </nav>
+
     <h1>Welcome Home!</h1>
 </body>
 </html>
